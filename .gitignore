@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+reports/
+htmlcov/
+.coverage
+
+### IDEs ###
+.idea/
+.vscode/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Environment ###
+.env
